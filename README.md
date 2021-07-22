@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is James (He/His/Him) and I am a software engineer recently turned Acessible Auditor at Acessible360. I've worked as a software engineer in various roles but I've found the most joy in creating and seeing things built on the front end of things. I am currently exploring the intersection between front end developement and web accessbility with my new found role.
+My name is James (He/Him/His) and I am a software engineer recently turned Acessible Auditor at Acessible360. I've worked as a software engineer in various roles but I've found the most joy in creating and seeing things built on the front end. I am currently exploring the intersection between front end developement and web accessbility with my new found role.
 
 ### When I'm not in front of a computer...
 
