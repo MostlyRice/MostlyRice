@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is James and I am a software engineer recently turned Acessible Auditor at Acessible360. I've worked as a software engineer in various roles but I've found the most joy in creating and seeing things built on the front end of things. I am currently exploring the intersection between front end developement and web accessbility with my new found role.
+
+- 😄 Pronouns: He/His/Him
+- 🚴 I've recently started cycling regularly as a hobby
+- 🍳 Cooking and being in the kitchen is therapeutic for me
+- 🤖 I love high fantasy/sci-fi shows and films
+- 💬 Talk nerdy to me about MTG
+
 <!--
 **MostlyRice/MostlyRice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
